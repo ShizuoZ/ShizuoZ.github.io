@@ -7,3 +7,5 @@ url: "http://shizuoz.github.io"
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 
 # Build config
+
+theme: jekyll-theme-minimal
