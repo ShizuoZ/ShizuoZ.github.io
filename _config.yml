@@ -1,0 +1,13 @@
+# General Jekyll Config
+highlighter: rogue
+name: Octocat's Wanderings
+description: foo bar
+url: "http://shizuoz.github.io"
+lsi:false
+
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+
+# Build config
+permalink:pretty
+markdown:kramdown
+theme:minima
